@@ -1,5 +1,5 @@
 # Numerical Recipes
-A simple numerical analysis tool which can perform differentiation, integration and root approximation for functions using a multitude of methods. For description of each of these methods, refer to [Numerical Analysis](https://github.com/paraskhosla3903/numerical-recipes/blob/main/Numerical-Analysis.pdf).
+A simple numerical analysis tool which can perform differentiation, integration and root approximation for functions using a multitude of methods. For description of each of these methods, refer to [Numerical Analysis](https://github.com/yuvrajsinghhada/CalcSphere/blob/main/Numerical-Analysis-Tool.pdf).
 
 ## Computational Capabilites
 - [Numerical Differentiation](https://en.wikipedia.org/wiki/Numerical_differentiation)
